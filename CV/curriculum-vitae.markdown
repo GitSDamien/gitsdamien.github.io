@@ -2,7 +2,7 @@
 layout: post
 title:  "Curriculum Vitae"
 date:   2023-01-30 05:08:59 -0600
-permalink: /CV2/
+permalink: /CV/
 ---
 
 Bienvenue sur ma page de CV en ligne. Vous y trouverez un aperçu de mon parcours professionnel ainsi que des exemples de mes réalisations.
