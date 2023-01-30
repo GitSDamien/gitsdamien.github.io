@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mes aventures et découvertes en programmation
+title: Damien Sénéchal
 email: senechal.damien@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  --
+  Bienvenue sur mon portfolio en ligne, un espace pour partager mes réalisations en tant qu'ingénieur informatique. 
+  Je suis heureux de vous présenter mes projets les plus significatifs qui montrent mes compétences et mes efforts. 
+  J'espère que vous apprécierez les voir et n'hésitez pas à me poser des questions.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://gitsdamien.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -51,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+include:
+  - _pages/
