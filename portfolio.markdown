@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio2/
+permalink: /Portfolio/
 ---
 <!DOCTYPE html>
 <meta charset="utf-8">
