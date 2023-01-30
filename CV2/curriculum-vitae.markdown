@@ -1,0 +1,175 @@
+---
+layout: post
+title:  "Curriculum Vitae"
+date:   2023-01-30 05:08:59 -0600
+permalink: /CV2/
+---
+
+Bienvenue sur ma page de CV en ligne. Vous y trouverez un aperçu de mon parcours professionnel ainsi que des exemples de mes réalisations.
+
+>*Les liens et informations donnés ne le sont qu'à titre indicatif. Vous pouvez les utiliser librement selon les licences des projets, mais garder en tête qu'on ne peut pas les utiliser en l'état pour des mises en production* 
+
+
+*******
+Table des matières  
+ 1. [Mon parcours en quelques mots](#presentation)
+ 2. [SmartEar, le son que l'on voit !](#smartear)
+    - [Récompenses et distinctions](#distinctions)
+ 2. [Mon voyage vers la maîtrise en ingénierie informatique](#ingenieur)
+ 3. [Architecte Logiciel, la CI/CD](#architecte)
+ 4. [Mes réalisations](#realisations)
+
+*******
+
+[![](CV_Damien_Senechal_2023_p1.png)](CV_Damien_Senechal_2023.pdf)
+*[Télécharger mon CV au format PDF](CV_Damien_Senechal_2023.pdf)*
+
+<div id='presentation'/> 
+
+## Mon parcours en quelques mots  
+Permettez-moi de me présenter. Mon nom est `Damien Senechal` et je suis  `Architecte logiciel, système et business` avec une grande expérience dans la recherche de solutions pour les clients tant dans les domaines hardware qu'en software.
+
+En tant qu'autodidacte passionné, j'ai commencé ma carrière dans une petite société familiale en tant qu'intégrateur informatique à l'âge de 17 ans. C'est là que j'ai découvert les langages de programmation C et Visual Basic. Au fil des ans, j'ai acquis une grande expertise dans le développement de code en C++, Java, Python et d'autres langages. Mon expérience professionnelle combinée à ma récente formation en ingénierie informatique Bac+5, niveau master 2 chez OpenClassrooms, me permet d'avoir une vision globale de l'architecture logicielle, système et business.
+
+J'ai également une expérience en gestion d'entreprise et en direction de PME PMI, ce qui me permet de comprendre les besoins des entreprises et de les transposer en exigences techniques. Mon dernier poste m'a amené à analyser la faisabilité d'un produit innovant et à le développer: `SmartEar, le son que l'on voit`. Je vous en parlerai plus en détail dans la prochaine section.
+
+Je suis passionné par les nouveaux projets et les défis. Mon ambition est de travailler en Agilité avec des équipes formidables sur des projets qui changent la donne (ou du moins pour lesquels on est fier de se lever le matin :stuck_out_tongue_winking_eye:).
+
+Je suis vraiment impatient de mettre mes compétences et mon expérience à votre service. :+1:
+
+**Mes langages préférées** 
+
+[![CPP](https://img.shields.io/static/v1?label=&message=C/C%2B%2B&color=gray&style=for-the-badge&logo=cplusplus)]() 
+[![PYTHON](https://img.shields.io/static/v1?label=&message=Python&color=gray&style=for-the-badge&logo=python)]() 
+[![JAVA](https://img.shields.io/static/v1?label=&message=Java&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAOw0AADsNAWEPgO4AAANrSURBVFhHrdZbiE1RGMDxwTBj3Idxv5MoFJncyj2UTG4lLzzIi0h5whNelBd54ElJPOBFihApnoSiPLjfc89lXMd1/P/H3mOfsezZh/PVr9Nec/asb631rbVOs/r6+pIiRUv0wIPcU8ZoHn0WI/xf41GRe8oYxUygGcaic+4pYxQzgcHojfe5p4xRrARKsQz38dqGrFGMBOx8NWZgtw0FhbvgP7TBOjzGsqhNFahEbpelCTZm1AO78Bwr0RxVWITF6IvQe3mCjRkMx0ncx0K0wjwcwAq0Q+i9PwQbm2Dnl3ANk1CGDTiPWQi981fBxhTl2I9azI3aluIpaqLnggQbUwzCExxCS1hsp3ER7RF6J1Wh2/ATPuI5vqI1PPl6oT8KjkITeILDsFMvHw+dS+iOtTChwiI0LU0YgCOYHj1PxjPUYUnUltm/nIR3sRmzUYUz2IoyeBsWFP96FJ/HQVTnnn4ty23YngxvSJeqRe4pEFl+kHjW94U33StcxXcYXWAdjMZMbINFGoe1MQITcBlH8Q2/o/GaJJTCg2UPtqMabdH4ew6iN9yGnoAewcPgd1vA7ToHHlwzkfd+2gy0wUYswB1cwGM4eqfWz3L0hFuyVdT2Do72NOpg+L9O4Tg22RBHU0vg9Fto7vOOaI94C/rD4wXs3E6fwSWy/QeSMQZ74VY9ZkNDJKcjxRCswt9OOwfineAN2TFqiw2El9R6uKzJv2UqQqMGFtg1PIKF9hTOkL+EneI+6ISz2IKXsDin4QpOIL8AiawJ2NFQjMNw2GE8zW5lp95teD36NLl2cPlM+AOCkTUBoxLd4DYMhYWpxuufGoUksAprYCXfRHI6TWwYarET3g+ZIi2BeF09xfy12wHLMQXefP7dredWc4rvwu3nCemWTYbLZEd/dBZKoC3c+yNhQVlA7v/PMLzxXA6/ZxJvYQLWQfydZFg/E3ED3qZ5EUpgPvbBYtoBE7ConF5H6wtOf3wc24EjdP1NSu6GrvDscAb9/XAOnh/ujoYIJeD5PhWj4KHj1MeF5Qjt0M5Mwpfj6f0CE/Q7b+CsOWpnxrukH7w53SkNkVYDcTgK19zEHLWjcO190VMwTsoklVwiLyO/6ynpCXgLeZElAUfoYWNBWu1y7T1ynQn3ezzVhlNsTdyLPIyeA1FS8hMsuS/e+FKmEQAAAABJRU5ErkJggg==)]()
+[![JAVASCRIPT](https://img.shields.io/static/v1?label=&message=JavaScript&color=gray&style=for-the-badge&logo=javascript)]() 
+[![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=gray&style=for-the-badge&logo=php)]() 
+
+**Mes principales compétences**
+
+[![ARCHITECH](https://img.shields.io/static/v1?label=&message=Gérer%20des%20architectures%20techniques&color=gray&style=for-the-badge&logo=visualstudiocode)]() 
+[![CYBERSECURE](https://img.shields.io/static/v1?label=&message=Prévisions%20et%20contre-mesures%20pour%20la%20cybersécurité&color=gray&style=for-the-badge&logo=hackaday)]() 
+[![PROJECT](https://img.shields.io/static/v1?label=&message=Pilotage%20de%20projets&color=gray&style=for-the-badge&logo=githubactions)]() 
+[![AUDITS](https://img.shields.io/static/v1?label=&message=Mener%20des%20audits%20et%20des%20tests%20de%20conformité&color=gray&style=for-the-badge&logo=speedtest)]() 
+[![AGILE](https://img.shields.io/static/v1?label=&message=Animer%20une%20démarche%20agile%20et%20innovante&color=gray&style=for-the-badge&logo=opensourceinitiative)]() 
+[![ANALYTICS](https://img.shields.io/static/v1?label=&message=Mener%20et%20exploiter%20une%20analyse%20stratégique&color=gray&style=for-the-badge&logo=googleanalytics)]()
+
+**Normes, méthodologies, cadres de référence**
+
+[![TOGAF](https://img.shields.io/static/v1?label=&message=TOGAF&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAV3SURBVFhHzZYPTBNXHMffuz+0UMqfokP+CepQ/iugyBadAoPpsjGXLZIN3OZMppkadWbL3JxLNHFMMRlm02VbxGgM0cSpiwkumsk2J1ILxYIoIFjpoAxBKW2h9N7d2931oVRaZknm9kmb9/vXe7/cfd/vCv5rIFl9Agt3Kb5xzWow0p0HaFUTjl5bzoa/aSfpfx9Ul7uLrw7Go1+knX+BpHyGIqtvOLvXEksGDnfkcV0HY4nrE5NrAFBDxHABWQyZIAfxfGJyDfjP2g4oBe9yIMCqxK+Z8OK/XL5vTEqEElzrprl2u3OtSuE4xSZVnCfhJ4ter19EzCcP1/xuvlVXVMlde6UEcx00CT8ZkH75ev5XzcNjePWZIyTlM48lQoyH3bXiMG4DmGhQBA7dKkE9hyOJK9Y7HltbEzbAtWycja6k1vB/JDrQlTTd/RtlSwwGQ6GYYlwVowiw2xq3sP3mpedR7fxT/OXEIVST2M4ZXnuBFEwOdCXlqtvEq0lpwtgGUX3+Nr465GFcm3VGrtdmfedW/3uMlTNXhMoX84LXO4CFfhYgy3ziuuD6kgHqD6LTT5cKmrwiFJB+DAdnb4FzSlfKed62WF4JkB8MBAO1GcT1iNcGIBXGATqohbguWI0RMOpBCFWYTTt5ooneV8Gk//wVHZw7IucppV5eR6FVTqBOu048j0yoAUvQW59iv2l3MKAB9ovo6lNv2A+hBks5R/ORWZG84TnHtQPpmL8ni86k3n0KK2OvYsgCzGqsw8GvfsZGv98j5bwxoVpFweWnpkb8gq2N4VCV0Huz1cLSwtBLUab9bwC7eQUQkPh78RMwVX836p0DDmXciYSEhEHBeikC+oXcu3YDZbMsW5+cnGwllxyHxwZQQ+E6MNz+gfgcIFBEf8GkVx0iKTBUteonbOt6mbgPUYTcZuetS/ObXmCTXHR9VQ6wNnwpHtcI8dFVUgmln1CBi5BcO4ZxDXDX315G9Z2tApjUQgYIUwsLpHnvaPgmhb91unHsDBgLnJL6XkBO+fecaf80aNzTBnlrIEkBrM74nMm8uJO4DxinAWi/UfBgcwnRRnZzUX19fY5lGKzytrkEx4MldXV1SwcHBjeN3VzG2etxJowXIavpINYDGAboMjIyLgZRlioS8giLHU2ZmZnVQcqBE9Kdc4NStBPLjfF3IG7LDzhgtvh6lVIUEO1z1MytFVJOmVJ0CSjD2iR7HLRyGE5NrZRMNr5MjwPTSsVN5RMjnqA2HLp0u2Q/ikcRYtwP0e3yxG5HxpLYpBUHSVjGVH9yjcZ0dBdwDkaQkHiLlMO28OVl4c9u3EEiMl2tZ3PVSOsMfLpYS/nNcZKwGx4bGKXzVu2CyPubSwCyZgM6QGtUl/+GmSkXYrBeEEzVxTwvZNFQaKGemld5R5nXjxCXM2dkcxIYMRcC2t9kDvzox5iklcfJ5XwHaRecdpvttZnnSEpGp9PlEFMG1eXscKu/HG8U7DVKkvaI10mIhT5aVK77eXf2FGCuM0gyUe/x0BhlTTbXWRYj5yScPa8TSwY6e2OR6dhC4nrEawOiqgRxtvcTxwXlbwE0Y+eaipeC1g87pvRt300Z93Yg/bL1rrzC/Y+pOJKhMnrCUey1AUiFYqBK3Cw+e04OUP7Ioc7fY2i8mwutDeUQWULkuOBggK1pX0uzdtmAevUhzITcl+NQfH+o55WzcR+7v9AeYUIRSnC3d00HtuYsoIrXsTN3Gjs7O5nIPwvuQadZTUpEIHDM2DdXFbvGgMyHw3DfucVAGWNk4/c2kAKv/GMDnhD/eByFQy0lxAVYEdVCZ51PhnSU9zHphQk0MAFxWzfggIRvxY3bsP+MMzis4MXJbP4/AIC/AfL8VDPdwHu4AAAAAElFTkSuQmCC)]() 
+[![Zachman](https://img.shields.io/static/v1?label=&message=Zachman%20Framework&color=gray&style=for-the-badge&logo=data:image/png;base64,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)]() 
+[![ISO27001](https://img.shields.io/static/v1?label=&message=ISO%2027001&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQESURBVFhH7ZdriFVVFMfn+iJFzdKUTMkSJUTEB6ah5gNRg0xpovLLoIOJKIihQZmCYoJZCCX4wPDxwVISSRGm0OhDHzLLTFG08o2PDBXBLAVz+v322We8d7z33DufKugPv1n77LvP3uucs/baa6r+aeWirVj19fWdMCOgo5fgHLdhfy6X+wnbJFXsAAsPwQyFLtAbdsEJeBSGQVf4Bi7Bdpy5iy2rZtGWFAu3gvdptoNf4QdYA9fgBTgJp2AptIEfYT33PI4tq0wHmKQ1Zj5sgNfgafgO+vGEu7HnsC54Fh6Cy7AZ1sIE7u+DzVTmJ2ACF18Ng8FXehhWwDG4BWPhK1AjYR7cgBoc+5D7Z9PeRvsKtmni5hbgU9l+JHQi2gZfUPq7ov1wbNo2ULXN4cHQWYkY/DqcKMJE6Aab4ALcgGPwXuzbC0/GOfrCRjgDN+ES7ITnwiJZYtBSKKZpcDxpltRgGA+3wlVxGailxYD+sDgMvaepMClpBh2AXjAMttgRNQROJc2gPfAy+JZS3YXswGTAoDA0Kvb1SK4adBu+hHmwEKaDDuXrmTAhon096QqaG7uDyuYBRRSfwaxProJawRgwPyyBJ8AckK+r0SozZSoTVoMqcgCvW2I+ALel+/9PSOUcC2BUuLonc0iq/HX+iDaomAMtog1ica/NakdgGWwCt5lZcA+kcsH8Jx3nH+73mzdsUbQv2vvF4HehmN6ONpXB9jX8Fq4SGaj5AaeuwJ2kGXQICh6wQPzYeIJUBppyX7v/82Vkr4McmHjcRb9DY9VBwfdXBak4DvC0a6yL4G9+v5+hP/hqTc8ewx5IDWKetpjh4Elpav4+BnLlYhKfZlZs+3qD99gaGAe18BHMhGp4A0JMYWeBb2Qk9LOvlModRj0xo8HTcBWcA7dXN3gHZvBkqxnXl3Yt+JSDYCU4dx9+/xhbUpnbML5aTzuP2C/AAPocfgH3fqrJ8Ba4qM7a7lVucZX5BlLxhA9gauAOdAC3XHc4HfseA+PDkswYqmPxo9iyqsiBVDhiVeT+NwAtQv6C5mC/Tu5kYfPF//rvqNw2fB7TA7aCSWUAKHfHfngFjIFPop0CN+FTME4GwmHiwsK1qEo6wOLVmHVwHqz1rXRfBfPCDjDq3X5mwzrwwNHB9uB9BqMF7QYcWIQtqiwHzGAWlJ5qzzKJWa0zbZONTlgd7wWr44ng9rM+eAp6Mn4y4z26D2Y5UDIRcZMluDl/OsyxL9pD/PZtclmgUD2hJm3tksJ7C1F1EMz57eAa+N39fTlY+Xo0rwQrYQtXq+Y345jdkFmIZn0CX2V6kPi9/ZfME24Hb8Az3qB7EUzP28G3+RJYLX3GGI9px1+n/W9NTlVVfwMST4VTp88zowAAAABJRU5ErkJggg==)]() 
+[![OWASP](https://img.shields.io/static/v1?label=&message=OWASP%20Top%2010&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALvSURBVEhL7dZfaE5xHMfx59jG2KxhNjaltPlTlN3IkkuSLFeooRRaSf4k08q/CBfkhhs3JLdIWZh/iXYhai2jWTTCjFn+hLDZ8f6cvudpz/Oc58/ZlNQ+9er3nN+fc85zzvn9zokM51/HsTKjuK5bSLECizEHJehHJ5pxBZccx/lB+ffCgfNwAF+g/EI77uAuXqAPShc2I9uGDy3sqByPoLRhI4qtORrqpmInOqHcQpE1Dy7soAJvoH+nK5BrTUlDn0KcRj9aMMGawoWB+XgCHXy1VacM/XSriuFgD5RGZFmXzMOgo95w191tVYGhPRtFyEENplu9TuIclA1e50zDgMn4Ct37pA8TbaWoMnVQTmI2SjAeH6CHdJQNi0ngNKTzDopjqMFcLMcIaHr14DWeox2VWIZ8TEEfqtDMdPzNvvbzex+q2W6gTB8G3cA3jMVI6OnuwcBoRlzHWehqKZqSi2w3Xtie5bVwZawqdeiYhbe4b1Ve2NYDthRbsQS6x2vxCpoputSaevNQYMM0Ts+I2u5ZVerQMRc/cd6qAkP7LugSKw1owhZUIubWsq1n6altxkT3NXTY2RqKw9D4j6iD7v9DdHCvXcqMEnQCvdBOtcOEcPAyihPQ2M+oRhcmooKDf6KMhv6aRZPQ7VXEJeEE9ORStEJTSU92fA5CL6UHmE//JspNGI1yxEd1WpJbvK24JLsF15AHTa9oOKFpFAtRiwUcvE31RG9FpdTKgVlpZaOV6cOBtMBoGmotjy5E/C5DwvuAulooF63KC9vj8B4vkfY9EhMGHIdSb1VJQx9/5bxqVV7YPgNFVyxcGKRFSItNL/zLmDT0OYTL9ltrRD2Umwj/MlIYOANalHQSexG4niu0jcF6FOAU9DpuxZC/CWZCr2XlMdYh4R1PnZ6PbdDKqOhrKeHDZVBhR/o2OAJ/zddKqZPR5b2NZ9BVUrqxHTk2PGXCfpTqn6+C/1Gqba167+B/lF5gen6nHM7/kEjkD+Le/bwX8w/bAAAAAElFTkSuQmCC)]() 
+
+[![AGILE](https://img.shields.io/static/v1?label=&message=Méthodologie%20Agile&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAYAAADtaU2/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAALiIAAC4iAari3ZIAAAZ+aVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pg0KPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyI+DQogIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+DQogICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczpJcHRjNHhtcENvcmU9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBDb3JlLzEuMC94bWxucy8iIHhtbG5zOkdldHR5SW1hZ2VzR0lGVD0iaHR0cDovL3htcC5nZXR0eWltYWdlcy5jb20vZ2lmdC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBsdXM9Imh0dHA6Ly9ucy51c2VwbHVzLm9yZy9sZGYveG1wLzEuMC8iIHhtbG5zOmlwdGNFeHQ9Imh0dHA6Ly9pcHRjLm9yZy9zdGQvSXB0YzR4bXBFeHQvMjAwOC0wMi0yOS8iIHhtbG5zOnhtcFJpZ2h0cz0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3JpZ2h0cy8iIHBob3Rvc2hvcDpDcmVkaXQ9IkdldHR5IEltYWdlcy9pU3RvY2twaG90byIgR2V0dHlJbWFnZXNHSUZUOkFzc2V0SUQ9Ijk1OTQ0Mzk3NiIgeG1wUmlnaHRzOldlYlN0YXRlbWVudD0iaHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL2xlZ2FsL2xpY2Vuc2UtYWdyZWVtZW50P3V0bV9tZWRpdW09b3JnYW5pYyZhbXA7dXRtX3NvdXJjZT1nb29nbGUmYW1wO3V0bV9jYW1wYWlnbj1pcHRjdXJsIj4NCiAgICAgIDxkYzpjcmVhdG9yPg0KICAgICAgICA8cmRmOlNlcT4NCiAgICAgICAgICA8cmRmOmxpPjMwMF9saWJyYXJpYW5zPC9yZGY6bGk+DQogICAgICAgIDwvcmRmOlNlcT4NCiAgICAgIDwvZGM6Y3JlYXRvcj4NCiAgICAgIDxkYzpkZXNjcmlwdGlvbj4NCiAgICAgICAgPHJkZjpBbHQ+DQogICAgICAgICAgPHJkZjpsaSB4bWw6bGFuZz0ieC1kZWZhdWx0Ij5UaGUgY29uY2VwdCBvZiByYXBpZCBwcm9kdWN0IGRldmVsb3BtZW50LiBUaGUgY29uY2VwdCBvZiB0aGUgc3ByaW50IHByb2R1Y3QgZGV2ZWxvcG1lbnQuIERpYWdyYW0gb2YgbGlmZSBjeWNsZSBvZiBwcm9kdWN0IGRldmVsb3BtZW50IGluIGZsYXQgc3R5bGUuIFZlY3RvciBpbGx1c3RyYXRpb24gRXBzMTAgZmlsZTwvcmRmOmxpPg0KICAgICAgICA8L3JkZjpBbHQ+DQogICAgICA8L2RjOmRlc2NyaXB0aW9uPg0KICAgICAgPHBsdXM6TGljZW5zb3I+DQogICAgICAgIDxyZGY6U2VxPg0KICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPg0KICAgICAgICAgICAgPHBsdXM6TGljZW5zb3JVUkw+aHR0cHM6Ly93d3cuaXN0b2NrcGhvdG8uY29tL3Bob3RvL2xpY2Vuc2UtZ205NTk0NDM5NzYtP3V0bV9tZWRpdW09b3JnYW5pYyZhbXA7dXRtX3NvdXJjZT1nb29nbGUmYW1wO3V0bV9jYW1wYWlnbj1pcHRjdXJsPC9wbHVzOkxpY2Vuc29yVVJMPg0KICAgICAgICAgIDwvcmRmOmxpPg0KICAgICAgICA8L3JkZjpTZXE+DQogICAgICA8L3BsdXM6TGljZW5zb3I+DQogICAgPC9yZGY6RGVzY3JpcHRpb24+DQogIDwvcmRmOlJERj4NCjwveDp4bXBtZXRhPg0KPD94cGFja2V0IGVuZD0iciI/Pq7OUOMAAAMuSURBVEhLrZVJSNVRFId9aVZKZZMNZhA2aLloUxglRbSwILLaRBDRpgihYRG0ahNkNBjtwlRIa9UiiijClUTQsGhR0ETzwuaBsgyH1/e7nfN8kz4f+IOPM9xz/3d4996Xk62i0WjE3CDiUZAna6mRkwaL/zB+NcywMCbVqNbCIZWxSB+LRCL9FiregGmBp/AJusxvp+4ONvSRIY4qzkqauc8eWw4X4BS8gnTqgquwJHwA4Q9r9QnyTtit8AGk61ABF+E0LIftcB46QVLNrPCRbEXH8Htit0EPSG1QEQoQfoG5QcQL4SCcgMdwFpZZW+aVexF2MXwF6UhoRPg6QD6xcOggNzQi/I3g2m25zCeeonwYA1dAarQmtcUPkLAK4jyzq+AJSNcsN/SKvQB7Tr3QH6i1nH/YV+nWfY91p0vhBUg11i9h1clb4HG72beg65LD1eg1q2vSH2fdDzElfdh32EuqR2FgNKzfWSe3FSot1momwESztVACK2EpFMN8WAtjrY+2XLoBsd2SlWKOkpo10mltgjVQRe61teuAFcNdWA0PoBS64T7oxJdBHX26qZ+D/8ba1pP77GMQp2y1pJw6TYdJStChCKMtq4Z5MBk00GhQ/QpQ/V/wA6gJdcKvECUpZcXmX8boUNWQu0k8G1+T0O89HkrgIZTDb9CDoedTu3WLPj/pownUw3NoJhd7dlNkxbInQToWGrIU/eZCI+hW7LJc+J3Tisaw9dgakJ5BEfhVib82buPxQ1QFWrXUZrl0P+uAKPC73AG98AjWWW7QWdOmifiOHQDpJeikF3qNbIKUNLzzTnDVWS4XfLUJK1a7hL8JvoG02XJelzpwsigqgyZ4Dw2wBcLM04k2TWQvfAHpqDUNLoq0El0NbWWAWBSAHopmkO7BPqiEcbADDkEh+DMrNfANvfn6hj8oZ0D3f0AkjoOkf6MfcWjLPkK26oP+/26KWmCKH6TDmP3wHfwBkNQu9E7rHuqe6/dUTn4+TAV/KLwtvkbqg0WgR6UV6tWogWdi9ByqIJ1CXZJ6YBosgNugyXmdDygppwH3QIceJCU1aLqPjrh8HNloNBr5B9/k08IVoAKfAAAAAElFTkSuQmCC)]() 
+[![METHODEV](https://img.shields.io/static/v1?label=&message=Méthodologie%20de%20développement%20en%20V&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAASCAYAAAA6yNxSAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASySURBVEhLlVVrTFxVEJ5z7933AxaWljcsilqjlWIobSWS2GgkmtSUImijPzSNVLHVxvrLmBjFV6K11sQHsWqsQYrSEOVX/WFMrArGYgjVCmEj+yrL8pLdvXufxzl3l20puJZvs7t35szMnTNn5jtkrHXPD1ans5gSAAoAHKVACQcEZVhcgrDTebT5895BlDaMnzva7iuUpGOGYBIAnE6gmgrkn7ihSvB8jJxtbvrb4nJVgs8HnI4vVyQgdgdoiwsAk5OwWFl1UL9/T286vWsHLwgc+apvnzsc/og4HMCVlAK12YDqGnBJEVT/FMhmS5R8+egjL3G6XpjxM6DrmovwvEwoSNTj+az9xHsjmaUNob/zQD2NJx8DjrNqqmLhOX4ps2SAmoQlVmgDYz0niaDKXEaE0YmJ+rra2t8yIqhYwVsPdGoZMSfGP+zhOdzpCn6fuFhfd/Mt56mi4AEDKGai3/b4E0ZJswmMPLj3aJ6UepM90/IKLBXFRfzOzwGkUrBssY7efnpgm2GcA0Nn+vnyU6fOWVVlOykrN84cWE+xhFT8zsUg6nS90PRFXzezzyYwdO/dz9uLvG9QzJGYzNgLCjYiFkTDf56HZCIxprfvbwJdy/qsB13Xrea+3m+wsRt0ZsnxuCO2WYyLcQjGXUwkX3xg8NuXmX022Okjz9bpYvKOjGiA1UBV5HKTyRwEsynacfxEf2YpJ/oOPb2PKvJmWVHKzSZTkOlYrPQvfuz2n9rfets43jW7OdPVJez0em8ixhwCzGuKJyXLtlKbI8xknBM4t7Bwce87xxXDIIMB9Nt1hV9IShZbeEH2CuZ5Jv+X35oEBg4/6asdvzBFPAVAXU42T2iE7poOJJkAbW4OJpvv2ib4rvNnXHAVzQL+G6q/OzvM4ajpm4uBqPgemx2oLAOZjYKGozfZuHNLa/erf6a90sDeXg0F+ySYEIEkgjgmZhB81aBjMBrASuL5sd6WRTHVuv/hVSPV/9yRhQDyB+ewAywvA0Fmo/EEKzeA2w0q1UFZh0rWVGDo408siVh0d5oKL0NJJnjCkSrBaptyVVZ939LRkcwsGRg6+aklMTuzW02JVZqiBixut870LEr6vRRclZXo99AqvzUJXInxpzq3unly44rRPCW+AgJ+dp4MS5oW5JC8XTypWLGJAakpBDrFnpkOG2Bi67vvjzJ5PeRM4MeWe47ZZOkZQF5ANgOiaaBbLIYX8fthmZBBnjeZbbLYQqwOgE1FOIeqcZfA7CwQUYS4y/XBnYNDBzMh1yDLfOshjOQxjecaQAIJYRNOYwJhDBqSFEMfUVQ1IknJUH4BBPPzICCmIKhRCGLDhQoKYRrPPqKhIgdyVuD8L8MeiWr5WSsMxW7NyPCIL6/GF3UUFc0IuId4bNYbm/irtGzHDqP0DHiPACMigeOWtjc0GqO4HnImcDX6D3W6G2ILnaxsyyahzKWoIaZPP2shDRnv12pfT9trr+NVem3YUAJfH+7yVfxxYYpDbqDX1wBVkRuQXimj6+kAaDjzgcZdW9pe6V4167mQsweuBt7nWsRTKIVLyqRIXJRmZEW6JKakGYVKlzaVSJECrwRW++Vr8H8B8C9sQQdHTamUlwAAAABJRU5ErkJggg==)]() 
+[![METHODEC](https://img.shields.io/static/v1?label=&message=Méthodologie%20de%20développement%20en%20cascade&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQvSURBVEhLtZZfTFtVHMd/90/bW27/MSi7VbYwliGOP0OnOAlgNl9M3NQs2UMN8UFjiBF588FEo49GTTRp1vkg8UEf/MPGmiwrKBIB3cYmDDIQx79KaS1tRykF2tv23l7PPb2bG7QMaP00596c7/n97v32nnN+9xKAuHLubIXg95dKcuc+5EFZk88kOiYt3NTx1rc88li+wAZufvH5xdpw5GV3JAJmVofF5TgPZkYD8ZQELE1j7Y/9pfb61994W87JF2kD5+yDNf5Ao+36DUiKKTAwDIiiCFEhAVqVGkyMFl6tehwGOO772wTxfmtr6wzOzgPYwIjdPlC16G+KopuyFIUHNiKh35DJ+OEorbrQ3t4+rsg5gw04z1844fN6n8RKFggUWVz6yPQanxi3Wq2zipwz2EAmvvvqqjWxrjGnQ1KoEcS0e+jFygPHukVREuQY+WQuS3SefKXxH7m/G7IacHwztqIS9hs8/mnQawvR7Umsr0dXQMcaQa3WAk2pgGevnT5jPdWFB3dB+qoZkOdcPvL8GkzMXoEp1zD8PuIA18IYjE8Nwlo0lI4ihLqOjo4KnLQLsj6Bb7/sCwjrJjQF93G3UChZkpQCU1nwzDq/NNfS0jKSVndGVgP9/f1HQ6FQsdLNiEqlAo9nwSgIYldbW1tSkXdEVgMbWZz3MUPByzZKJwJxtzxKBOmZuVNfeqjoGn446JBYS0JlQfO7h6tqwrL0MLZtIOBbKBsJ/+LS72VgeHACDAYW4gkB+FgMSIICDauGqifKIRKKwcF4c1NF9aHflNQtyboINyHJoagRKWB1WlgORiDBx4HChYsAURBR9USLUpJg8vZfnMPhOILzHsK2DQgpMbzs5RPusSXQUnrYa+ag2FgCRXozOhejcr0HvH+GIOSKSvpCg39yctKnpG7JtqdAZm5urhD9Q63Szci82012dv54zH7W3qlIW7IjAxvp7e6uPvzYxZ8ZNXlvh/J8ggKCVjMaMpZWUhAMmTyVNR8/ne4/yPbXQCYo4qBBF+b4+CI3emuGm3G5uFsTLvPSktc4fHOKm5p1cUbDKidBpNJmsz2qZD1AbgbwAyRgj0kFbAENOj0NJWYGojEB9Hq0M1QULlY0raYtFovW6XTuS+f9R05T0N/fVxePXeqiSMqgSJkhSgI+v+W18vLykYaGBlFRMTkZyMRK9G91YJ4x4vc3giRJ+OTTD2rrn3lW09z4wg2soUqmNqgS+yxFKzgon7znvPSOftkvseGgpAsH0u2OXzIsB5Am94OSHrWT16/2yPE5roHNoI9XU8yog6SzG5I/nAfBcRmSvb0Q7+4B8dcBEPr6IM6yIJBkQTr+/wDtSenEcYCmZkg9h9pR9LH1FNqFR+pAqq5FrxDi3tznfQ183eN8/qfV1TfR9yWvSJtA96frGM3oRy+d/uxf0GuaE5ugXxQAAAAASUVORK5CYII=)]() 
+[![METHODED](https://img.shields.io/static/v1?label=&message=Méthodologie%20de%20développement%20en%20mode%20DevOps&color=gray&style=for-the-badge&logo=data:image/png;base64,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)]() 
+
+<div id='smartear'/> 
+
+## SmartEar, le son que l'on voit !
+En tant qu'expert en informatique, j'ai eu l'opportunité de participer au développement d'un produit innovant, `Smartear : le son que l'on voit !`. Ce dispositif destiné aux personnes sourdes et malentendantes, permet de visualiser le son en retranscrivant les informations auditives en temps réel sous forme de signaux lumineux et de les diffuser sur de petits boîtiers portatifs appelés `Avert'Flash`.
+
+Après deux années de recherches acharnées, j'ai contribué à la création d'une startup dédiée à ce projet et nous avons réussi à obtenir des brevets, remporter plusieurs distinctions prestigieuses (notamment lors des concours Lépine et au CES de Las Vegas) en plus de recevoir le soutien d'un fond d'investissement.
+
+En tant que directeur technique, j'ai dirigé les équipes de recherche et développement ainsi que la production. J'ai conçu et mis en place l'ensemble du cycle de fabrication, en utilisant des technologies avancées telles que des imprimantes 3D, découpes laser, machines CNC et fours à refusion.
+
+J'ai également géré les recrutements, formé et supervisé les techniciens. La production était réalisée en interne principalement par des employés sourds et nous communiquions en langue des signes française (LSF). Avec un effectif comprenant plusieurs personnes remarquables en R&D (1 ingé. en électronique et programmation embarquée, 2 en développement d'applications mobiles, l'un sur Android, l'autre sur iOS, 1 DevOps et moi-même), j'ai réussi à atteindre des standards élevés de qualité, de performance et de fiabilité pour ce produit novateur.
+
+J'ai également assuré un bon pilotage et suivi des projets, des équipes R&D et Production, tout en gardant une vision à court, moyen et long termes pour pouvoir adapter la situation lorsque des changements de contrainte, budgets et autres survenaient.
+
+Techniquement, j'ai gagné une forte expertise dans toute la chaîne de ce produit IoT, notamment dans les domaines suivants: SDK de reconnaissance vocale, proc. ARM Cortex, Wifi, bluetooth 4.0 5.0 ble, réseau 2.4Ghz, réseau LORA, Android, iOS, cross plateforme, serveur Apache, supports dashboard, banc de tests hard & soft.
+
+<div id='distinctions'/> 
+
+### Récompenses et distinctions de SmartEar
+
+[![](SmartEar_Distinctions/SmartEar_Distinctions-1.png)](SmartEar_Distinctions/SmartEar_Distinctions.pdf)
+
+[![](SmartEar_Distinctions/SmartEar_Distinctions-2.png)](SmartEar_Distinctions/SmartEar_Distinctions.pdf)
+
+
+<div id='ingenieur'/> 
+
+## Mon voyage vers la maîtrise en ingénierie informatique
+
+L'auto-apprentissage et la formation continue ont toujours été des aspects importants de ma carrière professionnelle. Cependant, dans un monde en constante évolution, il peut être difficile de trouver le temps nécessaire pour se consacrer à des connaissances plus approfondies et à des concepts plus abstraits. C'est pourquoi j'ai saisi l'opportunité de suivre une formation d'Expert en Ingénierie Informatique (Bac+5) pour renforcer mes compétences.
+
+Au lieu de se contenter de la validation de mes acquis, j'ai choisi de consacrer du temps pour apprendre de nouvelles techniques et concepts. La formation à distance a duré 18 mois, avec un rythme de 35 heures par semaine. Elle m'a permis d'approfondir mes connaissances en méthodologies Agiles et recommandations TOGAF.
+
+Je suis extrêmement reconnaissant envers OpenClassrooms et mon mentor, Samir Nacer Edine, pour leur soutien tout au long de ce voyage de développement professionnel. Ils ont été là pour m'encourager, me guider et me soutenir tout au long de ma formation. Je suis fier d'avoir terminé cette formation avec succès et je suis confiant que mes nouvelles compétences seront utiles dans ma carrière à venir.
+
+**Qu'est-ce qu'un architecte logiciel, selon OpenClassrooms ?**
+
+Un architecte logiciel est un `développeur logiciel expérimenté`, responsable du design, de la planification et de la méthodologie utilisés pour le `développement d'un produit`. 
+
+L'architecte logiciel est en charge de : 
+
+- communiquer avec des clients et des parties prenantes ; 
+- coordonner une équipe de développement ;
+- évaluer la portée d'un projet ; 
+- analyser une architecture logicielle existante ; 
+- définir la structure et le comportement d'applications et leurs interactions ; 
+- valider de nouvelles solutions architecturales ; 
+- gérer l'implémentation et la livraison d'architectures logicielles.
+
+**La rédaction de documents TOGAF, c'était le vrai travail de fond de cette formation !**
+
+TOGAF, qui signifie The Open Group Architecture Framework, est un cadre de référence pour la planification, la conception, la mise en œuvre et la gestion de l'architecture d'entreprise. Il a été développé par l'Open Group, une organisation internationale de normalisation de l'industrie, pour aider les entreprises à aligner leur stratégie d'entreprise, les processus d'affaires, les applications et les technologies pour atteindre leurs objectifs d'affaires.
+
+TOGAF est un outil incroyablement puissant pour les entreprises qui cherchent à optimiser leurs systèmes d'information. Il est conçu pour être utilisé par les entreprises de toutes tailles et de tous secteurs, et peut être adapté pour répondre aux besoins de chaque entreprise.
+
+La méthodologie de TOGAF comprend un processus de développement de l'architecture en quatre phases : 
+- l'établissement de l'architecture, 
+- la planification de l'architecture, 
+- la mise en œuvre de l'architecture 
+- et la gouvernance de l'architecture. 
+
+Chacune de ces phases est conçue pour fournir des outils et des pratiques pour aider les entreprises à créer et à maintenir une architecture d'entreprise efficace.
+
+Les concepts clés de TOGAF sont extrêmement intéressants et méritent d'être approfondis. C'est pourquoi je vais bientôt écrire un article sur les concepts clés de TOGAF pour expliquer de manière détaillée comment ils peuvent être utilisés pour améliorer les projets et la gestion de l'entreprise. Je vais également inclure des exemples concrets pour montrer comment TOGAF peut être appliqué dans la vie réelle. Je suis convaincu que cela sera utile pour ceux qui cherchent à comprendre les avantages de TOGAF et comment il peut être utilisé pour améliorer les projets et la gestion de l'entreprise.
+
+**Bilan de cette formation**
+
+La formation que j'ai suivie était vraiment bénéfique. Chaque projet était une mise en situation réelle qui m'a permis de mettre en pratique les compétences acquises. J'ai beaucoup appris au cours de cette formation et j'ai adoré chaque instant. En résumé, cette formation m'a été très utile pour développer mes compétences professionnelles.
+
+
+<div id='architecte'/> 
+
+## Architecte Logiciel, la CI/CD
+
+En tant qu'architecte logiciel, je suis passionné par la gestion de projets et d'équipes, l'écriture du code et surtout la résolution de problèmes complexes. Je suis convaincu que ma capacité à avoir une vision globale et à concevoir des solutions efficaces en fait un atout précieux pour mon équipe.
+
+Cependant, je sais aussi que la mise en œuvre réussie de ces solutions dépend de la capacité à les déployer de manière fluide. C'est pourquoi je suis un fervent partisan de la CI/CD, qui permet de garantir une livraison rapide et fiable de nos fonctionnalités à nos utilisateurs. En utilisant cette approche, je suis convaincu que nous pouvons atteindre nos objectifs plus rapidement et avec moins de problèmes.
+
+### La CI/CD qu'est-ce que c'est ?
+
+La **CI/CD**, l'**intégration continue (CI)** et la livraison ou le **déploiement continue (CD)**, met l'accent sur la mise en production rapide de petits changements incrémentiels et l'utilisation de l'automatisation tout au long du processus du développement.
+
+### Intégration continue (CI)
+Avec l'intégration continue, les développeurs fusionnent aussi souvent que possible leurs changements de code vers la branche principale avec des `pull request`. Dès qu'une modification est validée, des processus automatisés de build et de tests sont exécutés pour valider l'exactitude de la modification. Les défauts sont détectés le plus tôt possible dans le cycle de développement, là où leurs impacts et leurs coûts sont les plus faibles.
+
+L'automatisation des tests est la clé de l'intégration continue pour s'assurer que les nouveaux commits ne corrompent pas l'application lorsqu'ils sont intégrés dans la branche principale.
+
+### Livraison/Déploiement continu (CD)
+La livraison continue est une extension de la CI, où le logiciel est conçu, configuré et paramétré de manière à ce qu'il puisse être mis en production automatiquement et à tout moment.
+
+Le déploiement continu va encore plus loin que la livraison continue, en orchestrant automatiquement le déploiement des applications aux clients à chaque changement.
+
+En accélérant la boucle de retours clients, les gains peuvent être énormes, en termes de qualité logicielle, de délais de projet, de résultats et de coûts de développement.
+
+
+<div id='realisations'/> 
+
+## Mes réalisations
+
+Je vous présente mon portfolio de réalisations ! 
+
+J'ai travaillé dur pour rassembler mes projets les plus significatifs et les plus récents dans un seul et même endroit pour que vous puissiez découvrir mes compétences en développement. Vous y trouverez une variété de technologies et de domaines, allant de la création de sites web à la mise en œuvre de solutions logicielles. 
+
+Cliquez sur le lien suivant pour accéder à ma page portfolio : [https://GitSDamien.github.io/Portfolio](https://GitSDamien.github.io/Portfolio). 
+
+Je suis convaincu que vous apprécierez ce que vous verrez et j'attends avec impatience vos commentaires et retours sur mes travaux. Merci de prendre le temps de jeter un coup d'œil !
+
+
