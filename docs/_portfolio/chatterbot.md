@@ -1,7 +1,18 @@
 ---
-layout: post
-title:  "Chatterbot, Flask et Docker"
-date:   2023-01-30 00:11:00 -0600
+classes: wide
+date: 2023-01-30T03:02:20+00:00
+title: "Chatterbot, Flask et Docker"
+# excerpt: "Dashboard domotique sur FireStick TV (Amazon)"
+header:
+  image: /assets/images/chatterbot.png
+  teaser: assets/images/chatterbot-th.png
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 Vous êtes à la recherche d'un projet passionnant pour découvrir les dernières technologies de développement de chatbot ? Alors ce projet est fait pour vous! Il vous permettra de découvrir les technologies `Python`, `Flask`, `SQLAlchemy`, `ChatterBot` et `Docker` pour créer un chatbot fonctionnel rapidement.

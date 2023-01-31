@@ -1,30 +1,14 @@
 ---
-layout: post
 title:  "Curriculum Vitae"
-date:   2023-01-30 05:08:59 -0600
 permalink: /CV/
+toc: true
 ---
 
 Bienvenue sur ma page de CV en ligne. Vous y trouverez un aperçu de mon parcours professionnel ainsi que des exemples de mes réalisations.
 
->*Les liens et informations donnés ne le sont qu'à titre indicatif. Vous pouvez les utiliser librement selon les licences des projets, mais garder en tête qu'on ne peut pas les utiliser en l'état pour des mises en production* 
+[![](/assets/CV/CV_Damien_Senechal_2023_p1.png)](/assets/CV/CV_Damien_Senechal_2023.pdf)
 
-
-*******
-Table des matières  
- 1. [Mon parcours en quelques mots](#presentation)
- 2. [SmartEar, le son que l'on voit !](#smartear)
-    - [Récompenses et distinctions](#distinctions)
- 2. [Mon voyage vers la maîtrise en ingénierie informatique](#ingenieur)
- 3. [Architecte Logiciel, la CI/CD](#architecte)
- 4. [Mes réalisations](#realisations)
-
-*******
-
-[![](CV_Damien_Senechal_2023_p1.png)](CV_Damien_Senechal_2023.pdf)
-*[Télécharger mon CV au format PDF](CV_Damien_Senechal_2023.pdf)*
-
-<div id='presentation'/> 
+*[Télécharger mon CV au format PDF](/assets/CV/CV_Damien_Senechal_2023.pdf)*
 
 ## Mon parcours en quelques mots  
 Permettez-moi de me présenter. Mon nom est `Damien Senechal` et je suis  `Architecte logiciel, système et business` avec une grande expérience dans la recherche de solutions pour les clients tant dans les domaines hardware qu'en software.
@@ -66,8 +50,6 @@ Je suis vraiment impatient de mettre mes compétences et mon expérience à votr
 [![METHODEC](https://img.shields.io/static/v1?label=&message=Méthodologie%20de%20développement%20en%20cascade&color=gray&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAYAAACbU/80AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQvSURBVEhLtZZfTFtVHMd/90/bW27/MSi7VbYwliGOP0OnOAlgNl9M3NQs2UMN8UFjiBF588FEo49GTTRp1vkg8UEf/MPGmiwrKBIB3cYmDDIQx79KaS1tRykF2tv23l7PPb2bG7QMaP00596c7/n97v32nnN+9xKAuHLubIXg95dKcuc+5EFZk88kOiYt3NTx1rc88li+wAZufvH5xdpw5GV3JAJmVofF5TgPZkYD8ZQELE1j7Y/9pfb61994W87JF2kD5+yDNf5Ao+36DUiKKTAwDIiiCFEhAVqVGkyMFl6tehwGOO772wTxfmtr6wzOzgPYwIjdPlC16G+KopuyFIUHNiKh35DJ+OEorbrQ3t4+rsg5gw04z1844fN6n8RKFggUWVz6yPQanxi3Wq2zipwz2EAmvvvqqjWxrjGnQ1KoEcS0e+jFygPHukVREuQY+WQuS3SefKXxH7m/G7IacHwztqIS9hs8/mnQawvR7Umsr0dXQMcaQa3WAk2pgGevnT5jPdWFB3dB+qoZkOdcPvL8GkzMXoEp1zD8PuIA18IYjE8Nwlo0lI4ihLqOjo4KnLQLsj6Bb7/sCwjrJjQF93G3UChZkpQCU1nwzDq/NNfS0jKSVndGVgP9/f1HQ6FQsdLNiEqlAo9nwSgIYldbW1tSkXdEVgMbWZz3MUPByzZKJwJxtzxKBOmZuVNfeqjoGn446JBYS0JlQfO7h6tqwrL0MLZtIOBbKBsJ/+LS72VgeHACDAYW4gkB+FgMSIICDauGqifKIRKKwcF4c1NF9aHflNQtyboINyHJoagRKWB1WlgORiDBx4HChYsAURBR9USLUpJg8vZfnMPhOILzHsK2DQgpMbzs5RPusSXQUnrYa+ag2FgCRXozOhejcr0HvH+GIOSKSvpCg39yctKnpG7JtqdAZm5urhD9Q63Szci82012dv54zH7W3qlIW7IjAxvp7e6uPvzYxZ8ZNXlvh/J8ggKCVjMaMpZWUhAMmTyVNR8/ne4/yPbXQCYo4qBBF+b4+CI3emuGm3G5uFsTLvPSktc4fHOKm5p1cUbDKidBpNJmsz2qZD1AbgbwAyRgj0kFbAENOj0NJWYGojEB9Hq0M1QULlY0raYtFovW6XTuS+f9R05T0N/fVxePXeqiSMqgSJkhSgI+v+W18vLykYaGBlFRMTkZyMRK9G91YJ4x4vc3giRJ+OTTD2rrn3lW09z4wg2soUqmNqgS+yxFKzgon7znvPSOftkvseGgpAsH0u2OXzIsB5Am94OSHrWT16/2yPE5roHNoI9XU8yog6SzG5I/nAfBcRmSvb0Q7+4B8dcBEPr6IM6yIJBkQTr+/wDtSenEcYCmZkg9h9pR9LH1FNqFR+pAqq5FrxDi3tznfQ183eN8/qfV1TfR9yWvSJtA96frGM3oRy+d/uxf0GuaE5ugXxQAAAAASUVORK5CYII=)]() 
 [![METHODED](https://img.shields.io/static/v1?label=&message=Méthodologie%20de%20développement%20en%20mode%20DevOps&color=gray&style=for-the-badge&logo=data:image/png;base64,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)]() 
 
-<div id='smartear'/> 
-
 ## SmartEar, le son que l'on voit !
 En tant qu'expert en informatique, j'ai eu l'opportunité de participer au développement d'un produit innovant, `Smartear : le son que l'on voit !`. Ce dispositif destiné aux personnes sourdes et malentendantes, permet de visualiser le son en retranscrivant les informations auditives en temps réel sous forme de signaux lumineux et de les diffuser sur de petits boîtiers portatifs appelés `Avert'Flash`.
 
@@ -81,16 +63,12 @@ J'ai également assuré un bon pilotage et suivi des projets, des équipes R&D e
 
 Techniquement, j'ai gagné une forte expertise dans toute la chaîne de ce produit IoT, notamment dans les domaines suivants: SDK de reconnaissance vocale, proc. ARM Cortex, Wifi, bluetooth 4.0 5.0 ble, réseau 2.4Ghz, réseau LORA, Android, iOS, cross plateforme, serveur Apache, supports dashboard, banc de tests hard & soft.
 
-<div id='distinctions'/> 
-
 ### Récompenses et distinctions de SmartEar
 
-[![](SmartEar_Distinctions/SmartEar_Distinctions-1.png)](SmartEar_Distinctions/SmartEar_Distinctions.pdf)
+[![](/assets/CV/SmartEar_Distinctions/SmartEar_Distinctions-1.png)](/assets/CV/SmartEar_Distinctions/SmartEar_Distinctions.pdf)
 
-[![](SmartEar_Distinctions/SmartEar_Distinctions-2.png)](SmartEar_Distinctions/SmartEar_Distinctions.pdf)
+[![](/assets/CV/SmartEar_Distinctions/SmartEar_Distinctions-2.png)](/assets/CV/SmartEar_Distinctions/SmartEar_Distinctions.pdf)
 
-
-<div id='ingenieur'/> 
 
 ## Mon voyage vers la maîtrise en ingénierie informatique
 
@@ -135,24 +113,24 @@ Les concepts clés de TOGAF sont extrêmement intéressants et méritent d'être
 La formation que j'ai suivie était vraiment bénéfique. Chaque projet était une mise en situation réelle qui m'a permis de mettre en pratique les compétences acquises. J'ai beaucoup appris au cours de cette formation et j'ai adoré chaque instant. En résumé, cette formation m'a été très utile pour développer mes compétences professionnelles.
 
 
-<div id='architecte'/> 
-
 ## Architecte Logiciel, la CI/CD
 
 En tant qu'architecte logiciel, je suis passionné par la gestion de projets et d'équipes, l'écriture du code et surtout la résolution de problèmes complexes. Je suis convaincu que ma capacité à avoir une vision globale et à concevoir des solutions efficaces en fait un atout précieux pour mon équipe.
 
 Cependant, je sais aussi que la mise en œuvre réussie de ces solutions dépend de la capacité à les déployer de manière fluide. C'est pourquoi je suis un fervent partisan de la CI/CD, qui permet de garantir une livraison rapide et fiable de nos fonctionnalités à nos utilisateurs. En utilisant cette approche, je suis convaincu que nous pouvons atteindre nos objectifs plus rapidement et avec moins de problèmes.
 
-### La CI/CD qu'est-ce que c'est ?
+**La CI/CD qu'est-ce que c'est ?**
 
 La **CI/CD**, l'**intégration continue (CI)** et la livraison ou le **déploiement continue (CD)**, met l'accent sur la mise en production rapide de petits changements incrémentiels et l'utilisation de l'automatisation tout au long du processus du développement.
 
-### Intégration continue (CI)
+**Intégration continue (CI)**
+
 Avec l'intégration continue, les développeurs fusionnent aussi souvent que possible leurs changements de code vers la branche principale avec des `pull request`. Dès qu'une modification est validée, des processus automatisés de build et de tests sont exécutés pour valider l'exactitude de la modification. Les défauts sont détectés le plus tôt possible dans le cycle de développement, là où leurs impacts et leurs coûts sont les plus faibles.
 
 L'automatisation des tests est la clé de l'intégration continue pour s'assurer que les nouveaux commits ne corrompent pas l'application lorsqu'ils sont intégrés dans la branche principale.
 
-### Livraison/Déploiement continu (CD)
+**Livraison/Déploiement continu (CD)**
+
 La livraison continue est une extension de la CI, où le logiciel est conçu, configuré et paramétré de manière à ce qu'il puisse être mis en production automatiquement et à tout moment.
 
 Le déploiement continu va encore plus loin que la livraison continue, en orchestrant automatiquement le déploiement des applications aux clients à chaque changement.
@@ -160,15 +138,13 @@ Le déploiement continu va encore plus loin que la livraison continue, en orches
 En accélérant la boucle de retours clients, les gains peuvent être énormes, en termes de qualité logicielle, de délais de projet, de résultats et de coûts de développement.
 
 
-<div id='realisations'/> 
-
 ## Mes réalisations
 
 Je vous présente mon portfolio de réalisations ! 
 
 J'ai travaillé dur pour rassembler mes projets les plus significatifs et les plus récents dans un seul et même endroit pour que vous puissiez découvrir mes compétences en développement. Vous y trouverez une variété de technologies et de domaines, allant de la création de sites web à la mise en œuvre de solutions logicielles. 
 
-Cliquez sur le lien suivant pour accéder à ma page portfolio : [https://GitSDamien.github.io/Portfolio](https://GitSDamien.github.io/Portfolio). 
+Cliquez sur le lien suivant pour accéder à ma page : [https://GitSDamien.github.io/](https://GitSDamien.github.io/). 
 
 Je suis convaincu que vous apprécierez ce que vous verrez et j'attends avec impatience vos commentaires et retours sur mes travaux. Merci de prendre le temps de jeter un coup d'œil !
 

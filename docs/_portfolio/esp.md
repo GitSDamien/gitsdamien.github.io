@@ -1,7 +1,18 @@
 ---
-layout: post
-title:  "IoT, domotique et ESP32 et ESP8266 sur Alexa"
-date:   2023-01-30 00:10:00 -0600
+classes: wide
+date: 2023-01-30T03:02:20+00:00
+title: "IoT, domotique et ESP32 et ESP8266 sur Alexa"
+# excerpt: "Dashboard domotique sur FireStick TV (Amazon)"
+header:
+  image: /assets/images/esp.png
+  teaser: assets/images/esp-th.png
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 Vous êtes à la recherche d'un projet DIY amusant et utile? Pourquoi ne pas vous lancer dans la création de votre propre système de domotique intégrant `Alexa` ?

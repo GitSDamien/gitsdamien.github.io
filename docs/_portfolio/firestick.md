@@ -1,7 +1,18 @@
 ---
-layout: post
-title:  "Dashboard domotique sur FireStick TV (Amazon)"
-date:   2023-01-30 00:09:00 -0600
+classes: wide
+date: 2023-01-30T03:02:20+00:00
+title: "FireStick TV"
+excerpt: "Dashboard domotique sur FireStick TV (Amazon)"
+header:
+  image: /assets/images/firestick.png
+  teaser: assets/images/firestick-th.png
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 Vous souhaitez créer une application pour `Firestick TV` mais ne savez pas par où commencer ? Ce tutoriel est fait pour vous ! En suivant les étapes détaillées, vous découvrirez comment utiliser `App Builder` en `Java` pour créer une application Firestick TV fonctionnelle et intuitive.

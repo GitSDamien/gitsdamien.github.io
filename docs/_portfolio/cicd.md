@@ -1,7 +1,18 @@
 ---
-layout: post
-title:  "Template GitHub CI/CD"
-date:   2023-01-30 00:08:00 -0600
+classes: wide
+date: 2023-01-30T03:02:20+00:00
+title: "Template GitHub CI/CD"
+# excerpt: "Dashboard domotique sur FireStick TV (Amazon)"
+header:
+  image: /assets/images/cicd.png
+  teaser: assets/images/cicd-th.png
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 Ce projet sur `Github` propose une méthode complète pour mettre en place une `chaine de CI/CD efficace` pour votre développement de logiciel. Nous avons créé diverses branches pour soutenir les différentes `étapes de votre workflow`, depuis la mise en place de `tests automatisés` jusqu'à la `livraison en production`.
