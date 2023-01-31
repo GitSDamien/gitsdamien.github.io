@@ -36,6 +36,7 @@ Si vous souhaitez désactiver les cookies, vous pouvez le faire via les options 
 
 Google Analytics est un outil d'analyse web que j'utilise pour comprendre comment les visiteurs interagissent avec ce site web. Il rapporte les tendances du site web en utilisant des cookies et des web beacons sans identifier les visiteurs individuels. Vous pouvez lire [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
+
 #### Google Adsense
 
 Google Adsense, un réseau d'affiliation publicitaire tiers, utilise des cookies pour m'aider à être sûr de recevoir une commission lorsque vous achetez un produit après avoir cliqué sur un lien ou une bannière publicitaire qui vous dirige vers le site d'un de leurs commerçants. Vous pouvez lire la [Politique de confidentialité de Google Adsense](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
