@@ -57,7 +57,7 @@ Après deux années de recherches acharnées, j'ai contribué à la création d'
 
 En tant que directeur technique, j'ai dirigé les équipes de recherche et développement ainsi que la production. J'ai conçu et mis en place l'ensemble du cycle de fabrication, en utilisant des technologies avancées telles que des imprimantes 3D, découpes laser, machines CNC et fours à refusion.
 
-J'ai également géré les recrutements, formé et supervisé les techniciens. La production était réalisée en interne principalement par des employés sourds et nous communiquions en langue des signes française (LSF). Avec un effectif comprenant plusieurs personnes remarquables en R&D (1 ingé. en électronique et programmation embarquée, 2 en développement d'applications mobiles, l'un sur Android, l'autre sur iOS, 1 DevOps et moi-même), j'ai réussi à atteindre des standards élevés de qualité, de performance et de fiabilité pour ce produit novateur.
+J'ai également géré les recrutements, formé et supervisé les techniciens. La production était réalisée en interne principalement par des employés sourds et nous communiquions en langue des signes française (LSF). Avec un effectif comprenant plusieurs personnes remarquables en R&D (1 ingé. en électronique et programmation embarquée, 2 en développement d'applications mobiles, l'un sur Android, l'autre sur iOS, 1 Full Stack et moi-même), j'ai réussi à atteindre des standards élevés de qualité, de performance et de fiabilité pour ce produit novateur.
 
 J'ai également assuré un bon pilotage et suivi des projets, des équipes R&D et Production, tout en gardant une vision à court, moyen et long termes pour pouvoir adapter la situation lorsque des changements de contrainte, budgets et autres survenaient.
 
